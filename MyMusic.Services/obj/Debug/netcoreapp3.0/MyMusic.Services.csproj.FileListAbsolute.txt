@@ -1,0 +1,11 @@
+E:\ProjectNET\ApiLearn\MyMusic.Services\bin\Debug\netcoreapp3.0\MyMusic.Services.deps.json
+E:\ProjectNET\ApiLearn\MyMusic.Services\bin\Debug\netcoreapp3.0\MyMusic.Services.dll
+E:\ProjectNET\ApiLearn\MyMusic.Services\bin\Debug\netcoreapp3.0\MyMusic.Services.pdb
+E:\ProjectNET\ApiLearn\MyMusic.Services\bin\Debug\netcoreapp3.0\MyMusic.Core.dll
+E:\ProjectNET\ApiLearn\MyMusic.Services\bin\Debug\netcoreapp3.0\MyMusic.Core.pdb
+E:\ProjectNET\ApiLearn\MyMusic.Services\obj\Debug\netcoreapp3.0\MyMusic.Services.csprojAssemblyReference.cache
+E:\ProjectNET\ApiLearn\MyMusic.Services\obj\Debug\netcoreapp3.0\MyMusic.Services.AssemblyInfoInputs.cache
+E:\ProjectNET\ApiLearn\MyMusic.Services\obj\Debug\netcoreapp3.0\MyMusic.Services.AssemblyInfo.cs
+E:\ProjectNET\ApiLearn\MyMusic.Services\obj\Debug\netcoreapp3.0\MyMusic.Services.csproj.CopyComplete
+E:\ProjectNET\ApiLearn\MyMusic.Services\obj\Debug\netcoreapp3.0\MyMusic.Services.dll
+E:\ProjectNET\ApiLearn\MyMusic.Services\obj\Debug\netcoreapp3.0\MyMusic.Services.pdb
